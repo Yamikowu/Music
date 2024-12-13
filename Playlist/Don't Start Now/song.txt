@@ -1,6 +1,6 @@
 Song_name: Don't Start Now
 
-Genre: pop
+Genre: Pop
 
 Album: Future Nostalgia
 
