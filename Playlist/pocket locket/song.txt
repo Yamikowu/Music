@@ -12,6 +12,8 @@ Lyricist: RØMANS & Alaina Castillo
 
 Publisher: Chosen People
 
+Region: America
+
 lyrics:
 
 [Intro]

@@ -12,6 +12,8 @@ Lyricist: Lady Gaga、Bruno Mars、Andrew Watt、D'Mile、James Fauntleroy
 
 Publisher: Interscope Records
 
+Region: America
+
 lyrics:
 
 [Intro: Bruno Mars]

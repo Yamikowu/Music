@@ -14,6 +14,8 @@ Region: America
 
 Publisher: Warner/Chappell & Sony Music Entertainment
 
+Region: England
+
 lyrics:
 [Intro]
 Bad tattoos on leather-tanned skin

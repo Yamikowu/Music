@@ -12,6 +12,8 @@ Lyricist: R. Kelly
 
 Publisher: Epic Records
 
+Region: America
+
 lyrics:
 
 [Verse 1]

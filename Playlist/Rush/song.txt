@@ -12,6 +12,8 @@ Lyricist: Troye Sivan, Troye Sivan Mellet, Brett McLaughlin, Alex Chapman, Adam 
 
 Publisher: Universal Music Australia
 
+Region: Australia
+
 lyrics:
 
 [Intro]

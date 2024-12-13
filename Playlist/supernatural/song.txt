@@ -12,6 +12,8 @@ Lyricist: Ariana Grande, Max Martin & Oscar Görres
 
 Publisher: Republic Records
 
+Region: America
+
 lyrics:
 
 [Intro]

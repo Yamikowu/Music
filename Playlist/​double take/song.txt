@@ -12,6 +12,8 @@ Lyricist: dhruv
 
 Publisher: Frankie Scoca
 
+Region: America
+
 lyrics:
 
 [Intro]

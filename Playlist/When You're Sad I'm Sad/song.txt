@@ -12,6 +12,8 @@ Lyricist: Charlie Puth、Jacob Kasher Hindlin
 
 Publisher: Atlantic Records
 
+Region: America
+
 lyrics:
 
 [Verse 1]

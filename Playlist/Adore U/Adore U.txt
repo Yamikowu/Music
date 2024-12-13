@@ -10,9 +10,9 @@ Composer: Khalid Robinson, Jamil Chammas & Justin Scott Lucas
 
 Lyricist: Khalid Robinson, Jamil Chammas & Justin Scott Lucas
 
-Region: America
-
 Publisher: AuthorScape, Virgin Music Group & Universal Music Publishing Group (GEMA)
+
+Region: America
 
 lyrics:
 [Verse 1]

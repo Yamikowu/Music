@@ -12,6 +12,8 @@ Lyricist: Denise Julia
 
 Publisher: Denise Julia
 
+Region: Philippines
+
 lyrics:
 
 [Intro]

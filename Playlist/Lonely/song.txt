@@ -12,6 +12,8 @@ Lyricist: Justin Bieber、benny blanco、Finneas
 
 Publisher: Def Jam Recordings
 
+Region: Canada
+
 lyrics:
 
 [Verse 1]

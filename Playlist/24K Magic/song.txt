@@ -12,6 +12,8 @@ Lyricist: Bruno Mars, Philip Lawrence, Christopher Brody Brown
 
 Publisher: Atlantic Records
 
+Region: America
+
 lyrics:
 
 [Intro]

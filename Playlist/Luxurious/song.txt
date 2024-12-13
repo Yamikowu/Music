@@ -12,6 +12,8 @@ Lyricist: Gwen Stefani、Tony Kanal、Ronald Isley、O'Kelly Isley Jr.、Rudolph
 
 Publisher: Interscope Records
 
+Region: America
+
 lyrics:
 
 [Spoken Intro]

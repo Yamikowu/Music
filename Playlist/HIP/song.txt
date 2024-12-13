@@ -12,6 +12,8 @@ Lyricist: HWASA (화사), 김도훈 (Kim Do Hoon) & 박우상 (Park Woo Sang)
 
 Publisher: RBW
 
+Region: South Korea
+
 lyrics:
 
 [Intro: Hwasa]

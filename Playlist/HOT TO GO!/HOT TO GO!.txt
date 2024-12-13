@@ -10,9 +10,9 @@ Composer: Kayleigh Rose Amstutz & Daniel Nigro
 
 Lyricist: Kayleigh Rose Amstutz & Daniel Nigro
 
-Region: America
-
 Publisher: Amusement Records & KRA International Inc.
+
+Region: America
 
 lyrics:
 [Intro]

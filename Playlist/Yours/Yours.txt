@@ -12,6 +12,8 @@ Lyricist: Conan Gray & Daniel Nigro
 
 Publisher: Universal Music Group & Republic Records
 
+Region: America
+
 lyrics:
 
 [Verse 1]

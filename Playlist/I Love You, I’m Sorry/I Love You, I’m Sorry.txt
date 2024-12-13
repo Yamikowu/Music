@@ -10,9 +10,9 @@ Composer: Gracie Abrams, Aaron Dessner & Audrey Hobert
 
 Lyricist: Gracie Abrams, Aaron Dessner & Audrey Hobert
 
-Region: America
-
 Publisher: Interscope Records
+
+Region: America
 
 lyrics:
 [Verse 1]

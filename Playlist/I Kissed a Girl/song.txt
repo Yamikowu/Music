@@ -12,6 +12,8 @@ Lyricist: Katy Perry、Dr. Luke、Max Martin、Cathy Dennis、Benny Blanco
 
 Publisher: Capitol Records
 
+Region: America
+
 lyrics:
 
 [Verse 1]

@@ -10,9 +10,9 @@ Composer: SZA, Rob Bisel & Carter Lang
 
 Lyricist: SZA, Rob Bisel & Carter Lang
 
-Region: America
-
 Publisher: Warner-Tamerlane Publishing Corp., Zuma Tuna, Top Dawg Entertainment, Universal Music Group, SZA, Bisel Creative Sound & Carter Lang Publishing
+
+Region: America
 
 lyrics:
 [Verse 1]

@@ -12,6 +12,8 @@ Lyricist: Amala Zandile Dlamini、TYSON TRAX、David Sprecher、Lydia Asrat
 
 Publisher: RCA Records
 
+Region: America
+
 lyrics:
 
 [Chorus]

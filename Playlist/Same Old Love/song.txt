@@ -12,6 +12,8 @@ Lyricist: Charli XCX、Ross Golan、Stargate（Mikkel Storleer Eriksen 和 Tor E
 
 Publisher: Interscope Records
 
+Region: America
+
 lyrics:
 
 [Verse 1: Selena Gomez]

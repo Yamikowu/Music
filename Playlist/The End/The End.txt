@@ -12,6 +12,8 @@ Lyricist: Halsey
 
 Publisher: Columbia Records, Sony Music Entertainment & Anti-Pop, LLC
 
+Region: America
+
 lyrics:
 
 [Verse 1]

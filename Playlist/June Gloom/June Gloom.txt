@@ -12,6 +12,8 @@ Lyricist: Camila Cabello, Isaac John De Boni, Jasper Harris, Michael John Mule &
 
 Publisher: Universal Music Group
 
+Region: Cuba
+
 lyrics:
 
 [Verse 1]

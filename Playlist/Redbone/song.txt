@@ -12,6 +12,8 @@ Lyricist: Childish Gambino, Ludwig Göransson, Gary Mudbone Cooper, George Clint
 
 Publisher: Glassnote Records
 
+Region: America
+
 lyrics:
 
 [Verse 1]
