@@ -1,6 +1,6 @@
 Song_name: Espresso
 
-Genre: pop
+Genre: Pop
 
 Album: Short n' Sweet
 

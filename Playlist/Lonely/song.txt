@@ -1,6 +1,6 @@
 Song_name: Lonely
 
-Genre: pop
+Genre: Pop
 
 Album: Justice
 

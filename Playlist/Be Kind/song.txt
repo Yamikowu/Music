@@ -1,6 +1,6 @@
 Song_name: Be Kind
 
-Gener: dance
+Gener: Dance
 
 Album: Single
 

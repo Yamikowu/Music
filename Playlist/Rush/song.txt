@@ -1,6 +1,6 @@
 Song_name: Rush
 
-Genre: pop
+Genre: Pop
 
 Album: Something To Give Each Other
 

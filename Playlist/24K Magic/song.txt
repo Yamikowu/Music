@@ -1,6 +1,6 @@
 Song_name: 24K Magic
 
-Gener: pop, R&B, funk
+Gener: Pop, R&B, Funk
 
 Album: 24K Magic
 
