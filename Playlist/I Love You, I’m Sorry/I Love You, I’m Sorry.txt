@@ -1,6 +1,6 @@
 Song_name: I Love You, I'm Sorry
 
-Gener: Pop
+Genre: Pop
 
 Album: The Secret of Us
 

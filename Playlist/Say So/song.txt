@@ -1,6 +1,6 @@
 Song_name: Say So
 
-Gener: pop
+Genre: pop
 
 Album: Hot Pink
 

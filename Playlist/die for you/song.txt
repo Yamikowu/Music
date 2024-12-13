@@ -1,6 +1,6 @@
 Song_name: Die For You
 
-Gener: R&B
+Genre: R&B
 
 Album: Starboy
 

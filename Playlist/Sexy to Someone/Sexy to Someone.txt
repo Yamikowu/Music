@@ -1,6 +1,6 @@
 Song_name: Sexy to Someone
 
-Gener: Alternative
+Genre: Alternative
 
 Album: Charm
 

@@ -1,6 +1,6 @@
 Song_name: Kill Bill
 
-Gener: R&B/Soul
+Genre: R&B/Soul
 
 Album: SOS
 
