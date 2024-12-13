@@ -1,6 +1,6 @@
 Song_name: HIP
 
-Gener: Kpop
+Genre: Kpop
 
 Album: reality in BLACK
 

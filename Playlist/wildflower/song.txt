@@ -1,6 +1,6 @@
 Song_name: Wildflower
 
-Gener: Pop
+Genre: Pop
 
 Album: Hit me hard and soft
 

@@ -1,6 +1,6 @@
 Song_name: Adore U
 
-Gener: R&B/Soul
+Genre: R&B/Soul
 
 Album: Sincere
 

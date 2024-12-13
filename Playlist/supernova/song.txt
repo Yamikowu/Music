@@ -1,6 +1,6 @@
 Song_name: Supernova
 
-Gener: Kpop
+Genre: Kpop
 
 Album: Armageddon - The 1st Album
 

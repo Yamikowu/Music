@@ -1,6 +1,6 @@
 Song_name: Cinnamon Girl
 
-Gener: Alternative
+Genre: Alternative
 
 Album: Norman Fucking Rockwell!
 

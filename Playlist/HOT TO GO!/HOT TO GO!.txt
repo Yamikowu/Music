@@ -1,6 +1,6 @@
 Song_name: HOT TO GO!
 
-Gener: Pop
+Genre: Pop
 
 Album: The Rise and Fall of a Midwest Princess
 

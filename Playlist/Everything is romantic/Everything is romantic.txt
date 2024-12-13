@@ -1,6 +1,6 @@
 Song_name: Everything is romantic
 
-Gener: Rap
+Genre: Rap
 
 Album: Brat
 
