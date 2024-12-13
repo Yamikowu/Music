@@ -1,6 +1,6 @@
 Song_name: Shallow
 
-Gener: pop, rock
+Gener: pop, rock, soundtrack
 
 Album: A Star Is Born
 
