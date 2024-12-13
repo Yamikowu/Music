@@ -2,9 +2,9 @@ Song_name: For Cryin' Out Loud!
 
 Gener: Alternative
 
-Album: FINNEAS
+Album: For Cryin' Out Loud!
 
-Artist: Justin Bieber
+Artist: FINNEAS
 
 Composer: FINNEAS, Aron Forbes, Matthew Fildey, Miles Morris & David Marinelli
 
