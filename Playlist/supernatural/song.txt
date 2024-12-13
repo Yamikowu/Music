@@ -1,6 +1,6 @@
 Song_name: supernatural
 
-Genre: pop
+Genre: Pop
 
 Album: eternal sunshine (slightly deluxe and also live)
 

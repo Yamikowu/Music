@@ -1,6 +1,6 @@
 Song_name: Yours
 
-Gener: pop
+Gener: Pop
 
 Album: Superache
 
