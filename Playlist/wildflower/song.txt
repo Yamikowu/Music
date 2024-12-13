@@ -1,18 +1,18 @@
-Song_name:Wildflower
+Song_name: Wildflower
 
-Gener:pop
+Gener: pop
 
-Album:Hit me hard and soft
+Album: Hit me hard and soft
 
-Artist:Billie Eilish
+Artist: Billie Eilish
 
-Composer:Billie Eilish & FINNEAS
+Composer: Billie Eilish & FINNEAS
 
-Lyricist:Billie Eilish & FINNEAS
+Lyricist: Billie Eilish & FINNEAS
 
-Region:America
+Region: America
 
-Publisher:AuthorScape, Virgin Music Group & Universal Music Publishing Group (GEMA)
+Publisher: AuthorScape, Virgin Music Group & Universal Music Publishing Group (GEMA)
 
 lyrics:
 [Verse 1]
