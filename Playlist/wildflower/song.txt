@@ -1,0 +1,8 @@
+song: WILDFLOWER
+
+genres:
+
+singer: billie eilish
+composer:
+lyricist:
+
