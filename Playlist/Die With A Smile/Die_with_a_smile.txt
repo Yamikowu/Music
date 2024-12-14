@@ -2,7 +2,7 @@ Song_name: Die With A Smile
 
 Gener: Pop
 
-Album: Single
+Album: Die With A Smile-Single
 
 Artist: Lady Gaga & Bruno Mars
 

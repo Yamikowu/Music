@@ -10,7 +10,7 @@ Composer: Leanys
 
 Lyricist: Leanys
 
-Publisher: Lyrics © O/B/O DistroKid
+Publisher:DistroKid
 
 Region: Cuban
 
